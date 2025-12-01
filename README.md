@@ -1,6 +1,6 @@
 👋 Hi, I'm Bharath Parimanan
 
-🚀 **AI & Data Engineer** | 🎓 MSc Data Science @ University of Hertfordshire
+🚀 **Data Engineer** | 🎓 MSc Data Science @ University of Hertfordshire
 📊 Passionate about building scalable data systems, designing efficient ETL pipelines, and harnessing the power of cloud platforms for real-time data processing.
 
 ---
