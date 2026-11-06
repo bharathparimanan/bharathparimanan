@@ -50,20 +50,6 @@ class BharathParimanan:
 <tr>
 <td width="50%" valign="top">
 
-### 🛸 [Orbital Fleet Intelligence](https://github.com/bharathparimanan/orbital-fleet-intelligence)
-**RAG + Agentic Mission Planning**
-
-Fleet Intelligence Platform over 50,000+ engineering documents and mission telemetry. LangGraph agentic planning layer. Cuts investigation time from hours to seconds.
-
-![LangGraph](https://img.shields.io/badge/LangGraph-1a56db?style=flat-square)
-![FAISS](https://img.shields.io/badge/FAISS-7c3aed?style=flat-square)
-![Pinecone](https://img.shields.io/badge/Pinecone-0ea5e9?style=flat-square)
-![RAGAS](https://img.shields.io/badge/RAGAS-059669?style=flat-square)
-![LangFuse](https://img.shields.io/badge/LangFuse-d97706?style=flat-square)
-
-</td>
-<td width="50%" valign="top">
-
 ### 🎯 [RetrivIn](https://github.com/bharathparimanan/RetrivIn-RAG-Assistant)
 **Agentic RAG Interview System**
 
@@ -92,19 +78,6 @@ Controlled ablation across 3 RAG variants over 1,585 QASPER NLP papers (46,882 c
 ![Llama 3.1](https://img.shields.io/badge/Llama_3.1-0ea5e9?style=flat-square)
 ![RAGAS](https://img.shields.io/badge/RAGAS-059669?style=flat-square)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-d97706?style=flat-square)
-
-</td>
-<td width="50%" valign="top">
-
-### ⚡ [EazyFit — Model-Aware Prompt Compiler](https://github.com/bharathparimanan/eazyfit-model-aware-compiler)
-**In Active Development**
-
-Sits between the user and any LLM. Cleans raw input, extracts structure from attachments, and compiles a model-specific prompt so the model reasons on signal, not noise.
-
-![HuggingFace](https://img.shields.io/badge/HuggingFace-1a56db?style=flat-square)
-![OpenAI](https://img.shields.io/badge/OpenAI-7c3aed?style=flat-square)
-![pdfplumber](https://img.shields.io/badge/pdfplumber-0ea5e9?style=flat-square)
-![FastAPI](https://img.shields.io/badge/FastAPI-059669?style=flat-square)
 
 </td>
 </tr>
