@@ -15,7 +15,7 @@
 ```python
 class BharathParimanan:
     role        = "AI Engineer"
-    location    = "Hatfield, UK"
+    location    = "London, UK"
     focus       = ["Production RAG", "Agentic AI", "LLM Evaluation", "Knowledge Systems"]
     building    = "Fleet Intelligence Platform @ Orbital Locker — 10,000 missions/day"
     research    = "Graph-Constrained RAG vs Naive RAG · MSc Data Science @ UoH · 86.5%"
